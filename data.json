@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-09-04T22:59:39.343Z",
+  "updatedAt": "2026-09-04T23:05:26.801Z",
   "flights": [
     {
       "route": "KGL → DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
-      "currentPriceUSD": 598,
+      "currentPriceUSD": 429,
       "status": "SUCCESS"
+    },
+    {
+      "route": "KGL → BRU",
+      "origin": "KGL",
+      "destination": "BRU",
+      "airline": "Brussels Airlines",
+      "currentPriceUSD": 573,
+      "status": "SUCCESS"
+    },
+    {
+      "route": "KGL → LHR",
+      "origin": "KGL",
+      "destination": "LHR",
+      "airline": "RwandAir",
+      "currentPriceUSD": 735,
+      "status": "SUCCESS"
+    },
+    {
+      "route": "KGL → JNB",
+      "origin": "KGL",
+      "destination": "JNB",
+      "airline": "RwandAir / South African Airways",
+      "currentPriceUSD": 0,
+      "status": "FAILED"
     },
     {
       "route": "KGL → NBO",
@@ -16,59 +40,7 @@
       "airline": "RwandAir / Kenya Airways",
       "currentPriceUSD": 370,
       "status": "SUCCESS"
-    },
-    {
-      "route": "KGL → BRU",
-      "origin": "KGL",
-      "destination": "BRU",
-      "airline": "RwandAir / Brussels Airlines",
-      "currentPriceUSD": 573,
-      "status": "SUCCESS"
-    },
-    {
-      "route": "KGL → AMS",
-      "origin": "KGL",
-      "destination": "AMS",
-      "airline": "KLM",
-      "currentPriceUSD": 903,
-      "status": "SUCCESS"
-    },
-    {
-      "route": "KGL → LHR",
-      "origin": "KGL",
-      "destination": "LHR",
-      "airline": "RwandAir",
-      "currentPriceUSD": 0,
-      "status": "FAILED"
     }
   ],
-  "instagram": [
-    {
-      "id": "17993743415824308",
-      "caption": "",
-      "mediaType": "IMAGE",
-      "mediaUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZJ8rNvxwifYQ7kNvwHBSpMW&_nc_oc=Adpa1yjk3f8IwU4N2dPFR8Zx5LTjbKH5A24VtMpWlGz0rAGToZV1lv-kSGr34AmS8gQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=vcugS7U6F4Ng9ByDtSEHNA&oh=00_AQIViPCQZ3G-ayb8ODEHtISwqmnWCPIOp3PI_0GC5O6_ww&oe=6AA104AD",
-      "permalink": "https://www.instagram.com/p/Dcj5hfqiC6u/",
-      "timestamp": "2026-08-27T22:49:48+0000",
-      "likes": 0
-    },
-    {
-      "id": "18074160410391580",
-      "caption": "",
-      "mediaType": "VIDEO",
-      "mediaUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/787306403_17900888523566325_4865125667112765288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VUcIjFNc-2UQ7kNvwERF0Hk&_nc_oc=AdrqjzqY3XkDA7xn4iPpFHlvWNn02XWXuo47TR4DYTSDtlwu2ldUs5jrHPwy8zPs8Qk&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=vcugS7U6F4Ng9ByDtSEHNA&_nc_tpa=Q5bMBQKH4hpKQaig8-BB3UfxYgAeTUhGazRuA7A7tQvcOM2TBlWnZc5cbnG5CMO-W10Kpz2QuyPvWBUIgQ&oh=00_AQIgSpztakm2iedtBXC4KRG1QoZw4JJ4apzTy8D0OywejQ&oe=6AA11467",
-      "permalink": "https://www.instagram.com/reel/Dcj4tjvs-nl/",
-      "timestamp": "2026-08-27T22:43:40+0000",
-      "likes": 0
-    },
-    {
-      "id": "17946370164294958",
-      "caption": "",
-      "mediaType": "VIDEO",
-      "mediaUrl": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/781867348_17900876631566325_5413410436436809223_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NjSP8wlvXzYQ7kNvwHRxIYa&_nc_oc=AdqUkassMRBTciO1md3GUlNTFICRu_yP3aMrILXqsgC5x-IaK4ZTC7SOLVRr6mKuFeo&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=vcugS7U6F4Ng9ByDtSEHNA&_nc_tpa=Q5bMBQL1me6PmaPjL6Rwaalp9P7-yARAfK-YtfxBbvqpe-X5rFDB6m9-lNPcTFkLbbhu6LQSNQlBIVB02g&oh=00_AQJqci6ffUiCi6WqzOywF6DPYsXH7rojH7r4j_93OJK0VQ&oe=6AA1372D",
-      "permalink": "https://www.instagram.com/reel/DcjpeJqMYfs/",
-      "timestamp": "2026-08-27T20:29:48+0000",
-      "likes": 0
-    }
-  ]
+  "instagram": []
 }
