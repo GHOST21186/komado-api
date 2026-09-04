@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-09-04T21:28:59.371Z",
+  "flights": [
+    {
+      "route": "KGL → DXB",
+      "origin": "KGL",
+      "destination": "DXB",
+      "currentPriceUSD": 598,
+      "status": "SUCCESS"
+    }
+  ],
+  "instagram": []
+}
