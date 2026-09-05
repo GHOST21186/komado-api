@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-04T23:05:26.801Z",
+  "updatedAt": "2026-09-05T09:49:51.822Z",
   "flights": [
     {
       "route": "KGL → DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
-      "currentPriceUSD": 429,
+      "currentPriceUSD": 136,
+      "sourcesChecked": {
+        "googleFlights": 597,
+        "kayak": 136
+      },
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → BRU",
+      "route": "KGL → NBO",
       "origin": "KGL",
-      "destination": "BRU",
-      "airline": "Brussels Airlines",
-      "currentPriceUSD": 573,
-      "status": "SUCCESS"
-    },
-    {
-      "route": "KGL → LHR",
-      "origin": "KGL",
-      "destination": "LHR",
-      "airline": "RwandAir",
-      "currentPriceUSD": 735,
+      "destination": "NBO",
+      "airline": "RwandAir / Kenya Airways",
+      "currentPriceUSD": 136,
+      "sourcesChecked": {
+        "googleFlights": 370,
+        "kayak": 136
+      },
       "status": "SUCCESS"
     },
     {
@@ -30,15 +30,35 @@
       "origin": "KGL",
       "destination": "JNB",
       "airline": "RwandAir / South African Airways",
-      "currentPriceUSD": 0,
-      "status": "FAILED"
+      "currentPriceUSD": 136,
+      "sourcesChecked": {
+        "googleFlights": 311,
+        "kayak": 136
+      },
+      "status": "SUCCESS"
     },
     {
-      "route": "KGL → NBO",
+      "route": "KGL → LHR",
       "origin": "KGL",
-      "destination": "NBO",
-      "airline": "RwandAir / Kenya Airways",
-      "currentPriceUSD": 370,
+      "destination": "LHR",
+      "airline": "RwandAir",
+      "currentPriceUSD": 136,
+      "sourcesChecked": {
+        "googleFlights": 735,
+        "kayak": 136
+      },
+      "status": "SUCCESS"
+    },
+    {
+      "route": "KGL → IST",
+      "origin": "KGL",
+      "destination": "IST",
+      "airline": "Turkish Airlines",
+      "currentPriceUSD": 136,
+      "sourcesChecked": {
+        "googleFlights": 763,
+        "kayak": 136
+      },
       "status": "SUCCESS"
     }
   ],
