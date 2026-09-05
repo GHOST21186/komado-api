@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-05T16:42:06.075Z",
+  "updatedAt": "2026-09-05T17:56:32.584Z",
   "flights": [
     {
       "route": "KGL → DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
-      "currentPriceUSD": 168,
+      "currentPriceUSD": 597,
       "sourcesChecked": {
         "googleFlights": 597,
-        "kayak": 168
+        "kayak": null
       },
       "status": "SUCCESS"
     },
@@ -17,11 +17,11 @@
       "route": "KGL → LHR",
       "origin": "KGL",
       "destination": "LHR",
-      "airline": "RwandAir / British Airways",
-      "currentPriceUSD": 168,
+      "airline": "RwandAir",
+      "currentPriceUSD": 735,
       "sourcesChecked": {
         "googleFlights": 735,
-        "kayak": 168
+        "kayak": null
       },
       "status": "SUCCESS"
     },
@@ -29,11 +29,11 @@
       "route": "KGL → BRU",
       "origin": "KGL",
       "destination": "BRU",
-      "airline": "Brussels Airlines",
-      "currentPriceUSD": 168,
+      "airline": "Brussels Airlines / RwandAir",
+      "currentPriceUSD": 573,
       "sourcesChecked": {
         "googleFlights": 573,
-        "kayak": 168
+        "kayak": null
       },
       "status": "SUCCESS"
     },
@@ -42,10 +42,10 @@
       "origin": "KGL",
       "destination": "NBO",
       "airline": "RwandAir / Kenya Airways",
-      "currentPriceUSD": 168,
+      "currentPriceUSD": 370,
       "sourcesChecked": {
         "googleFlights": 370,
-        "kayak": 168
+        "kayak": null
       },
       "status": "SUCCESS"
     },
@@ -53,11 +53,11 @@
       "route": "KGL → JNB",
       "origin": "KGL",
       "destination": "JNB",
-      "airline": "RwandAir / South African",
-      "currentPriceUSD": 168,
+      "airline": "RwandAir / South African Airways",
+      "currentPriceUSD": 311,
       "sourcesChecked": {
         "googleFlights": 311,
-        "kayak": 168
+        "kayak": null
       },
       "status": "SUCCESS"
     }
@@ -67,7 +67,7 @@
       "id": "17993743415824308",
       "caption": "",
       "mediaType": "IMAGE",
-      "mediaUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7bktc6dGeAQ7kNvwGGuB7l&_nc_oc=AdrtvMOrfN8wCaCnDqmwTYUiwtRd-ED9841eiLyrlJEoNEC9YWnB-7gGeNJiTLPIbRM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=d2IbN557YOOU--opkhHfIw&oh=00_AQJMD7KLpFYpiWC32RY4SY02yIkqtMJD-HvYZFLMPOorzQ&oe=6AA21DED",
+      "mediaUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7bktc6dGeAQ7kNvwE_ZyYg&_nc_oc=AdomfkdktDzVvTyaTIppFEJ9hmuLsS0lZ_bfK_MU3q71z5ZLK1ca__mf5yK3eQfxCyw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=WBBh4Z7v8KyJZxRU2F_tYw&oh=00_AQJvukii_AayX8kXLFxwGz0CZVGw1JB4F46aS4tLj697DA&oe=6AA21DED",
       "permalink": "https://www.instagram.com/p/Dcj5hfqiC6u/",
       "timestamp": "2026-08-27T22:49:48+0000",
       "likes": 0
@@ -76,7 +76,7 @@
       "id": "18074160410391580",
       "caption": "",
       "mediaType": "VIDEO",
-      "mediaUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/787306403_17900888523566325_4865125667112765288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Lt-zbDsmPVcQ7kNvwFIEbCQ&_nc_oc=Adrcr9iAO6lMZzbwsntUBS7UOdtasvh0xmZcm4Pj0E92hS5HBR8ORUEpF2Egow9lcBA&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=d2IbN557YOOU--opkhHfIw&_nc_tpa=Q5bMBQL3B7B51z-dmQJ-SevihoIrFPNF6rO9uWTuqP4MO7TbZbrslqOvU2NXteg6jGWZWBLkc2gZ63UnXg&oh=00_AQJKaBR58TeeiJiCI5w0NXmSzQB-BzALqfRzw0v1SEEhZw&oe=6AA22DA7",
+      "mediaUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/787306403_17900888523566325_4865125667112765288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Lt-zbDsmPVcQ7kNvwGGTbAB&_nc_oc=AdotM0ZuXVUUntKjDh8uz2AsPvUEKYgDtuZvzpFqfg-wbhT9lbyUbs4cjDR1SH7FICc&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=WBBh4Z7v8KyJZxRU2F_tYw&_nc_tpa=Q5bMBQKLR84KIqoGVEDfQ8uz9rHwAZFxxRcwI2Gsae70k_-L8zQI5kT55iCC2i38I5Iepf0cTQrXgmAUZg&oh=00_AQLYfQxCJJP8ZZsvj9Hxg_Ym96hSfBJhqRm9Sqm51Mo9uw&oe=6AA22DA7",
       "permalink": "https://www.instagram.com/reel/Dcj4tjvs-nl/",
       "timestamp": "2026-08-27T22:43:40+0000",
       "likes": 0
@@ -85,7 +85,7 @@
       "id": "17946370164294958",
       "caption": "",
       "mediaType": "VIDEO",
-      "mediaUrl": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/781867348_17900876631566325_5413410436436809223_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NjSP8wlvXzYQ7kNvwHqLstE&_nc_oc=AdoaX53_jvOBmj-VV7VQnMIhUZd16I7HAdJCITPSNMH3zVJhjbuZNg30eR2pBUxHDmA&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=d2IbN557YOOU--opkhHfIw&_nc_tpa=Q5bMBQKsRZGrhsiJBCa0DhjlLKspoTJnQvXpiKXhmPe-cIPC2WFGe5xLpkhZu2b7pC7mNEscYe5ui8KvGw&oh=00_AQLD_-Gd0yy23uaaZ1M6r5ly9E8-rkuFFrPDFwYjhyke5A&oe=6AA2182D",
+      "mediaUrl": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/781867348_17900876631566325_5413410436436809223_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NjSP8wlvXzYQ7kNvwG3g6VU&_nc_oc=Adp_nHQUuPyScZG3tMrbgpYfVBOVki24socYuL6DB94sxeLFW9PMPKZMRPOm6oaS8SQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=WBBh4Z7v8KyJZxRU2F_tYw&_nc_tpa=Q5bMBQKrBdFIf9TDSIz3X8fhqb6CjsY__qxttr9TgvO9CHR0cTlk_SwzZPgTuNObqnj1kAvH4Dlnypq75A&oh=00_AQKPTCY0kYPMtJy_ifpUIoUVM1AFiIO8cY7avHF2lPn3jQ&oe=6AA2182D",
       "permalink": "https://www.instagram.com/reel/DcjpeJqMYfs/",
       "timestamp": "2026-08-27T20:29:48+0000",
       "likes": 0
