@@ -1,16 +1,12 @@
 {
-  "updatedAt": "2026-09-05T09:49:51.822Z",
+  "updatedAt": "2026-09-05T11:57:01.095Z",
   "flights": [
     {
       "route": "KGL → DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
-      "currentPriceUSD": 136,
-      "sourcesChecked": {
-        "googleFlights": 597,
-        "kayak": 136
-      },
+      "currentPriceUSD": 597,
       "status": "SUCCESS"
     },
     {
@@ -18,23 +14,15 @@
       "origin": "KGL",
       "destination": "NBO",
       "airline": "RwandAir / Kenya Airways",
-      "currentPriceUSD": 136,
-      "sourcesChecked": {
-        "googleFlights": 370,
-        "kayak": 136
-      },
+      "currentPriceUSD": 370,
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → JNB",
+      "route": "KGL → ADD",
       "origin": "KGL",
-      "destination": "JNB",
-      "airline": "RwandAir / South African Airways",
-      "currentPriceUSD": 136,
-      "sourcesChecked": {
-        "googleFlights": 311,
-        "kayak": 136
-      },
+      "destination": "ADD",
+      "airline": "Ethiopian Airlines / RwandAir",
+      "currentPriceUSD": 469,
       "status": "SUCCESS"
     },
     {
@@ -42,23 +30,15 @@
       "origin": "KGL",
       "destination": "LHR",
       "airline": "RwandAir",
-      "currentPriceUSD": 136,
-      "sourcesChecked": {
-        "googleFlights": 735,
-        "kayak": 136
-      },
+      "currentPriceUSD": 735,
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → IST",
+      "route": "KGL → BRU",
       "origin": "KGL",
-      "destination": "IST",
-      "airline": "Turkish Airlines",
-      "currentPriceUSD": 136,
-      "sourcesChecked": {
-        "googleFlights": 763,
-        "kayak": 136
-      },
+      "destination": "BRU",
+      "airline": "RwandAir / Brussels Airlines",
+      "currentPriceUSD": 573,
       "status": "SUCCESS"
     }
   ],
