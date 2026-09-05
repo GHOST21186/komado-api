@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:25:13.813Z",
+  "updatedAt": "2026-09-05T16:32:16.351Z",
   "flights": [
     {
       "route": "KGL → DXB",
@@ -14,13 +14,13 @@
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → BRU",
+      "route": "KGL → IST",
       "origin": "KGL",
-      "destination": "BRU",
-      "airline": "RwandAir / Brussels Airlines",
+      "destination": "IST",
+      "airline": "Turkish Airlines",
       "currentPriceUSD": 355,
       "sourcesChecked": {
-        "googleFlights": 573,
+        "googleFlights": 763,
         "kayak": 355
       },
       "status": "SUCCESS"
@@ -29,10 +29,22 @@
       "route": "KGL → LHR",
       "origin": "KGL",
       "destination": "LHR",
-      "airline": "RwandAir / British Airways",
+      "airline": "RwandAir",
       "currentPriceUSD": 355,
       "sourcesChecked": {
         "googleFlights": 735,
+        "kayak": 355
+      },
+      "status": "SUCCESS"
+    },
+    {
+      "route": "KGL → JNB",
+      "origin": "KGL",
+      "destination": "JNB",
+      "airline": "RwandAir",
+      "currentPriceUSD": 311,
+      "sourcesChecked": {
+        "googleFlights": 311,
         "kayak": 355
       },
       "status": "SUCCESS"
@@ -48,18 +60,6 @@
         "kayak": 355
       },
       "status": "SUCCESS"
-    },
-    {
-      "route": "KGL → BOM",
-      "origin": "KGL",
-      "destination": "BOM",
-      "airline": "RwandAir / Ethiopian Airlines",
-      "currentPriceUSD": 355,
-      "sourcesChecked": {
-        "googleFlights": 374,
-        "kayak": 355
-      },
-      "status": "SUCCESS"
     }
   ],
   "instagram": [
@@ -67,7 +67,7 @@
       "id": "17993743415824308",
       "caption": "",
       "mediaType": "IMAGE",
-      "mediaUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7bktc6dGeAQ7kNvwFdBXEK&_nc_oc=AdpWciD7Q_u31eNQtavJ-p-nLE6y9ke13sk9ki9DA-1GKdDIeNWqBbFpZMYn76R0WTM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=Kxro9BwWEJwYLnWd-INeoQ&oh=00_AQIP6Qf09A9tl5mx4fc7GrPTIRk35x2UbAV77UYUlYILYw&oe=6AA21DED",
+      "mediaUrl": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7bktc6dGeAQ7kNvwFTnzh3&_nc_oc=AdoWaoBuwkf2I6J2WPaCncBAEp164J1I4WBFuh3mtoGkO9vD-hB6hvoIR9dqhdUOr1g&_nc_zt=23&_nc_ht=scontent-sin2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=iu2EjLEko9tM1GoJoMTNAg&oh=00_AQJyJfpai1y3ByTMMWScHxqL_EsbiK7h4HlJUaDLqpXorg&oe=6AA21DED",
       "permalink": "https://www.instagram.com/p/Dcj5hfqiC6u/",
       "timestamp": "2026-08-27T22:49:48+0000",
       "likes": 0
@@ -76,7 +76,7 @@
       "id": "18074160410391580",
       "caption": "",
       "mediaType": "VIDEO",
-      "mediaUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/787306403_17900888523566325_4865125667112765288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Lt-zbDsmPVcQ7kNvwFFOJH_&_nc_oc=AdqAn8aHsCXAZ75o8ZA7_jb9q9T0CSl9TgP_pAKU-SkwITsodnTJon-4oYuRxVowmyQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=Kxro9BwWEJwYLnWd-INeoQ&_nc_tpa=Q5bMBQJvJCchsWqn6dHGEidoft90vamja-xhX-cRE7TUtaoRlhGlECUFAh3av_YLDYsxX3Kg49vanjYI1w&oh=00_AQKKF-k-vP6M_eW2y4uMqBoQJixUxf5RDQSTs06iTnAecA&oe=6AA22DA7",
+      "mediaUrl": "https://scontent-sin11-2.cdninstagram.com/v/t51.82787-15/787306403_17900888523566325_4865125667112765288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Lt-zbDsmPVcQ7kNvwF6n9qX&_nc_oc=AdoFbtxeJzna4aAeEczHMZ3eq8INAn6ZJaTFtY-gbG8OcAQ06gAKW2-u6MCwm-Hs-dQ&_nc_zt=23&_nc_ht=scontent-sin11-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=iu2EjLEko9tM1GoJoMTNAg&_nc_tpa=Q5bMBQKy2E45oxx3AlH-8OrFxNgjUV0W5ji9Cpy3iBpMpfLTT91gamXgDL88-IjWcLyC5GsK1bpS-qsMGA&oh=00_AQLydseDpVeSmlWET1ryOJdqYm2PQyiAL8jzgyFDdaAFXw&oe=6AA22DA7",
       "permalink": "https://www.instagram.com/reel/Dcj4tjvs-nl/",
       "timestamp": "2026-08-27T22:43:40+0000",
       "likes": 0
@@ -85,7 +85,7 @@
       "id": "17946370164294958",
       "caption": "",
       "mediaType": "VIDEO",
-      "mediaUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/781867348_17900876631566325_5413410436436809223_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NjSP8wlvXzYQ7kNvwEnmzjk&_nc_oc=AdqgEXZQwla5QOq8MR5iXYnBPW9qCe3JtXgD4QXXh-K3pocWeB4hS8jOdnjd_a9jgc4&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=Kxro9BwWEJwYLnWd-INeoQ&_nc_tpa=Q5bMBQJAhX11FkZxTUNSPnTwmu1da3CVJUTIF59pFEZg9Wjl5VZQy67yW7yxoii0beEafSplf3_aKnVdPw&oh=00_AQKyWhz9zppdefqnh1WtWcIZQmaZxQLbWVeaHVbAuaKq_A&oe=6AA2182D",
+      "mediaUrl": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-15/781867348_17900876631566325_5413410436436809223_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NjSP8wlvXzYQ7kNvwEd7W49&_nc_oc=AdrpPkHdTlh0o8HIxih49D644wQQclFkig10Wj0M4j-eOLJYP8AXAD-Kmm0-otWOKT0&_nc_zt=23&_nc_ht=scontent-sin11-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=iu2EjLEko9tM1GoJoMTNAg&_nc_tpa=Q5bMBQKpP8v5nFSUQ_xZT9h0ttSbLcBX4k4JaUKV44d8VoAmRda4RwYdlznlzNF4AkM_1aq19zmBZGyEvw&oh=00_AQK2_qdVS1ePxqf9tRPuoog89AzCYLT2p-kMf0EqB1nUAA&oe=6AA2182D",
       "permalink": "https://www.instagram.com/reel/DcjpeJqMYfs/",
       "timestamp": "2026-08-27T20:29:48+0000",
       "likes": 0
