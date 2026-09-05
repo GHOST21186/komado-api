@@ -1,12 +1,40 @@
 {
-  "updatedAt": "2026-09-05T11:57:01.095Z",
+  "updatedAt": "2026-09-05T16:14:54.749Z",
   "flights": [
     {
       "route": "KGL → DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
-      "currentPriceUSD": 597,
+      "currentPriceUSD": 355,
+      "sourcesChecked": {
+        "googleFlights": 597,
+        "kayak": 355
+      },
+      "status": "SUCCESS"
+    },
+    {
+      "route": "KGL → LHR",
+      "origin": "KGL",
+      "destination": "LHR",
+      "airline": "RwandAir / British Airways",
+      "currentPriceUSD": 355,
+      "sourcesChecked": {
+        "googleFlights": 735,
+        "kayak": 355
+      },
+      "status": "SUCCESS"
+    },
+    {
+      "route": "KGL → BRU",
+      "origin": "KGL",
+      "destination": "BRU",
+      "airline": "Brussels Airlines",
+      "currentPriceUSD": 355,
+      "sourcesChecked": {
+        "googleFlights": 573,
+        "kayak": 355
+      },
       "status": "SUCCESS"
     },
     {
@@ -14,31 +42,23 @@
       "origin": "KGL",
       "destination": "NBO",
       "airline": "RwandAir / Kenya Airways",
-      "currentPriceUSD": 370,
+      "currentPriceUSD": 355,
+      "sourcesChecked": {
+        "googleFlights": 370,
+        "kayak": 355
+      },
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → ADD",
+      "route": "KGL → JNB",
       "origin": "KGL",
-      "destination": "ADD",
-      "airline": "Ethiopian Airlines / RwandAir",
-      "currentPriceUSD": 469,
-      "status": "SUCCESS"
-    },
-    {
-      "route": "KGL → LHR",
-      "origin": "KGL",
-      "destination": "LHR",
-      "airline": "RwandAir",
-      "currentPriceUSD": 735,
-      "status": "SUCCESS"
-    },
-    {
-      "route": "KGL → BRU",
-      "origin": "KGL",
-      "destination": "BRU",
-      "airline": "RwandAir / Brussels Airlines",
-      "currentPriceUSD": 573,
+      "destination": "JNB",
+      "airline": "RwandAir / South African",
+      "currentPriceUSD": 311,
+      "sourcesChecked": {
+        "googleFlights": 311,
+        "kayak": 355
+      },
       "status": "SUCCESS"
     }
   ],
