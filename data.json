@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T18:03:09.868Z",
+  "updatedAt": "2026-09-05T18:13:10.036Z",
   "flights": [
     {
       "route": "KGL → DXB",
@@ -14,7 +14,7 @@
       "origin": "KGL",
       "destination": "LHR",
       "airline": "RwandAir / British Airways",
-      "currentPriceUSD": 735,
+      "currentPriceUSD": 740,
       "status": "SUCCESS"
     },
     {
@@ -22,7 +22,7 @@
       "origin": "KGL",
       "destination": "BRU",
       "airline": "Brussels Airlines",
-      "currentPriceUSD": 573,
+      "currentPriceUSD": 653,
       "status": "SUCCESS"
     },
     {
@@ -38,9 +38,8 @@
       "origin": "KGL",
       "destination": "JNB",
       "airline": "RwandAir / South African",
-      "currentPriceUSD": 311,
+      "currentPriceUSD": 357,
       "status": "SUCCESS"
     }
-  ],
-  "instagram": []
+  ]
 }
