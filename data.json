@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:52:40.460Z",
+  "updatedAt": "2026-09-06T15:56:57.005Z",
   "flights": [
     {
       "route": "KGL → DXB",
@@ -13,6 +13,10 @@
       "trend": "down",
       "status": "SUCCESS",
       "history": [
+        {
+          "date": "2026-09-06",
+          "price": 697
+        },
         {
           "date": "2026-09-06",
           "price": 677
@@ -45,6 +49,10 @@
       "history": [
         {
           "date": "2026-09-06",
+          "price": 861
+        },
+        {
+          "date": "2026-09-06",
           "price": 841
         },
         {
@@ -73,6 +81,10 @@
       "trend": "down",
       "status": "SUCCESS",
       "history": [
+        {
+          "date": "2026-09-06",
+          "price": 735
+        },
         {
           "date": "2026-09-06",
           "price": 715
@@ -105,6 +117,10 @@
       "history": [
         {
           "date": "2026-09-06",
+          "price": 470
+        },
+        {
+          "date": "2026-09-06",
           "price": 450
         },
         {
@@ -126,13 +142,17 @@
       "origin": "KGL",
       "destination": "JNB",
       "airline": "RwandAir / South African",
-      "currentPriceUSD": 331,
-      "previousPriceUSD": 351,
-      "changeUSD": -20,
-      "changePct": -5.7,
+      "currentPriceUSD": 0,
+      "previousPriceUSD": 371,
+      "changeUSD": -371,
+      "changePct": -100,
       "trend": "down",
-      "status": "SUCCESS",
+      "status": "BLOCKED",
       "history": [
+        {
+          "date": "2026-09-06",
+          "price": 411
+        },
         {
           "date": "2026-09-06",
           "price": 391
@@ -144,13 +164,37 @@
         {
           "date": "2026-09-06",
           "price": 351
-        },
-        {
-          "date": "2026-09-06",
-          "price": 331
         }
       ]
     }
   ],
-  "instagram": []
+  "instagram": [
+    {
+      "id": "17993743415824308",
+      "mediaType": "IMAGE",
+      "mediaUrl": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7bktc6dGeAQ7kNvwHcylpi&_nc_oc=Ado28sJAN810xoCL3U3DEfoEKEliSnfNOu-L3n678HfUHiksS6UFikF5Sh12HM1M2Kk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=KZcTPKRBJ2WXuxxy5juYdg&oh=00_AQJuthYYpawcVxk7McYrkfB1RjnviQgO6FN0eTZfb_9UOQ&oe=6AA36F6D",
+      "thumbnailUrl": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7bktc6dGeAQ7kNvwHcylpi&_nc_oc=Ado28sJAN810xoCL3U3DEfoEKEliSnfNOu-L3n678HfUHiksS6UFikF5Sh12HM1M2Kk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=KZcTPKRBJ2WXuxxy5juYdg&oh=00_AQJuthYYpawcVxk7McYrkfB1RjnviQgO6FN0eTZfb_9UOQ&oe=6AA36F6D",
+      "permalink": "https://www.instagram.com/p/Dcj5hfqiC6u/",
+      "caption": "",
+      "timestamp": "2026-08-27T22:49:48+0000"
+    },
+    {
+      "id": "18074160410391580",
+      "mediaType": "VIDEO",
+      "mediaUrl": "https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQNQEqVBzOap7ppWV4OMOwHA6LGj2RtIZLx76yFyrtHMZOJBtUWdOwS5RFIHYGnK33upYWnnUjiqQ7xwUExRLE4laBSwc-UqCdQ6PcQ.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=kacYxxA9Hz0Q7kNvwHaKRst&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA3MDE3ODM3OTA0MTY2NiwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=325672e6ca0fcfed&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yQTREMjVFRTNDNTc4MkREQzhDQTJFNjYyMkI2MDVBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE0NEI3QUUxNzI1MzMwRjcxQ0QzNDgyQjZCQzBENDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEroiiytTmAxUCKAJDMywXQFNAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KZcTPKRBJ2WXuxxy5juYdg&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_AQJhN8Hlv0_MjbNaZ_wmjPqP5TDUZf8R2xzH--prMy2uIg&oe=6A9F7FEB",
+      "thumbnailUrl": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/787306403_17900888523566325_4865125667112765288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Lt-zbDsmPVcQ7kNvwHHn3zt&_nc_oc=AdrkVYgsQgEhHUDC0zTweoBG8HaB7E7eMzilNP4Zf-9SP42E1dIS-c69zjmO_M5pIKI&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=KZcTPKRBJ2WXuxxy5juYdg&_nc_tpa=Q5bMBQKCkrOMDeImoogO-MVDkAaakwGjCkTrz4uzhMjaZUJFWxEvVkZdgH_YR1YJrjEqW7GPFUFOnOuW3g&oh=00_AQKSDggSTTVL-lpU9edOAdrR52PCZhhw3Bn9prdgt_TKrQ&oe=6AA346E7",
+      "permalink": "https://www.instagram.com/reel/Dcj4tjvs-nl/",
+      "caption": "",
+      "timestamp": "2026-08-27T22:43:40+0000"
+    },
+    {
+      "id": "17946370164294958",
+      "mediaType": "VIDEO",
+      "mediaUrl": "https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQPXvdAQ0UYuNhuVJzkf4BgnhZMNXeCmAXh3_swO6TyxLSDNiWGYM9MpRRy560cawBuDajfPh-Kv3zLYyzs94Q2-mok83XtuK7JrW8Y.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=Wir9MxP6WWkQ7kNvwE_uqVB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNTc2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA0MTc2NjExNTQxMTc4MywiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8b96000b4da29b4b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MDRGQjgwNzQ4MTFCMTA5RDlERDhEMDlBOEM4MkU4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NGNEQ0N0NBMDRDNzlCMjE1RUE0MEE0RkZCQkM0MDgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOnfyz4t7ZAxUCKAJDMywXQBwAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KZcTPKRBJ2WXuxxy5juYdg&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_AQKtbgCht_BHWobTcn4VoS_ekXnMDGDXsW2NkbuPfTbBUg&oe=6A9F85E5",
+      "thumbnailUrl": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/781867348_17900876631566325_5413410436436809223_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QsviW_Il8VAQ7kNvwGlN3NU&_nc_oc=AdoznDPXWQsATEVUwe70LtlDD9JxCDP6l0w-uBzUYtuJzhMnw2vj7eYuHVDQQUSDhRM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=KZcTPKRBJ2WXuxxy5juYdg&_nc_tpa=Q5bMBQKoWJiRW76FsmHTUDE37llpgHVAYG9X5OEfmmbrmJBILryUdAEZMqJ3bU1U4vgGB3DNsL76dQXkzw&oh=00_AQKRYK_O7r_4BfPlCTz1QtXD-qGBufv6H-IkOLaPfMWH7Q&oe=6AA369AD",
+      "permalink": "https://www.instagram.com/reel/DcjpeJqMYfs/",
+      "caption": "",
+      "timestamp": "2026-08-27T20:29:48+0000"
+    }
+  ]
 }
