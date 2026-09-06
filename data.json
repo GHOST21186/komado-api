@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-05T19:49:06.468Z",
+  "updatedAt": "2026-09-06T06:16:50.537Z",
   "flights": [
     {
-      "route": "KGL → DXB",
+      "route": "KGL-DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
@@ -10,23 +10,23 @@
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → LHR",
+      "route": "KGL-LHR",
       "origin": "KGL",
       "destination": "LHR",
       "airline": "RwandAir / British Airways",
-      "currentPriceUSD": 740,
+      "currentPriceUSD": 761,
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → BRU",
+      "route": "KGL-BRU",
       "origin": "KGL",
       "destination": "BRU",
       "airline": "Brussels Airlines",
-      "currentPriceUSD": 653,
+      "currentPriceUSD": 635,
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → NBO",
+      "route": "KGL-NBO",
       "origin": "KGL",
       "destination": "NBO",
       "airline": "RwandAir / Kenya Airways",
@@ -34,11 +34,11 @@
       "status": "SUCCESS"
     },
     {
-      "route": "KGL → JNB",
+      "route": "KGL-JNB",
       "origin": "KGL",
       "destination": "JNB",
       "airline": "RwandAir / South African",
-      "currentPriceUSD": 357,
+      "currentPriceUSD": 311,
       "status": "SUCCESS"
     }
   ]
