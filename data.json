@@ -1,45 +1,96 @@
 {
-  "updatedAt": "2026-09-06T10:07:13.047Z",
+  "updatedAt": "2026-09-06T11:20:36.847Z",
   "flights": [
     {
       "route": "KGL → DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
-      "currentPriceUSD": 0,
-      "status": "FAILED"
+      "currentPriceUSD": 617,
+      "previousPriceUSD": 617,
+      "changeUSD": 0,
+      "changePct": 0,
+      "trend": "flat",
+      "status": "SUCCESS",
+      "history": [
+        {
+          "date": "2026-09-06",
+          "price": 617
+        }
+      ]
     },
     {
       "route": "KGL → LHR",
       "origin": "KGL",
       "destination": "LHR",
       "airline": "RwandAir / British Airways",
-      "currentPriceUSD": 0,
-      "status": "FAILED"
+      "currentPriceUSD": 781,
+      "previousPriceUSD": 781,
+      "changeUSD": 0,
+      "changePct": 0,
+      "trend": "flat",
+      "status": "SUCCESS",
+      "history": [
+        {
+          "date": "2026-09-06",
+          "price": 781
+        }
+      ]
     },
     {
       "route": "KGL → BRU",
       "origin": "KGL",
       "destination": "BRU",
       "airline": "Brussels Airlines",
-      "currentPriceUSD": 0,
-      "status": "FAILED"
+      "currentPriceUSD": 655,
+      "previousPriceUSD": 655,
+      "changeUSD": 0,
+      "changePct": 0,
+      "trend": "flat",
+      "status": "SUCCESS",
+      "history": [
+        {
+          "date": "2026-09-06",
+          "price": 655
+        }
+      ]
     },
     {
       "route": "KGL → NBO",
       "origin": "KGL",
       "destination": "NBO",
       "airline": "RwandAir / Kenya Airways",
-      "currentPriceUSD": 0,
-      "status": "FAILED"
+      "currentPriceUSD": 390,
+      "previousPriceUSD": 390,
+      "changeUSD": 0,
+      "changePct": 0,
+      "trend": "flat",
+      "status": "SUCCESS",
+      "history": [
+        {
+          "date": "2026-09-06",
+          "price": 390
+        }
+      ]
     },
     {
       "route": "KGL → JNB",
       "origin": "KGL",
       "destination": "JNB",
       "airline": "RwandAir / South African",
-      "currentPriceUSD": 0,
-      "status": "FAILED"
+      "currentPriceUSD": 331,
+      "previousPriceUSD": 331,
+      "changeUSD": 0,
+      "changePct": 0,
+      "trend": "flat",
+      "status": "SUCCESS",
+      "history": [
+        {
+          "date": "2026-09-06",
+          "price": 331
+        }
+      ]
     }
-  ]
+  ],
+  "instagram": []
 }
