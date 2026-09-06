@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:56:09.750Z",
+  "updatedAt": "2026-09-06T15:52:40.460Z",
   "flights": [
     {
       "route": "KGL → DXB",
@@ -13,6 +13,10 @@
       "trend": "down",
       "status": "SUCCESS",
       "history": [
+        {
+          "date": "2026-09-06",
+          "price": 677
+        },
         {
           "date": "2026-09-06",
           "price": 657
@@ -41,6 +45,10 @@
       "history": [
         {
           "date": "2026-09-06",
+          "price": 841
+        },
+        {
+          "date": "2026-09-06",
           "price": 821
         },
         {
@@ -65,6 +73,10 @@
       "trend": "down",
       "status": "SUCCESS",
       "history": [
+        {
+          "date": "2026-09-06",
+          "price": 715
+        },
         {
           "date": "2026-09-06",
           "price": 695
@@ -93,6 +105,10 @@
       "history": [
         {
           "date": "2026-09-06",
+          "price": 450
+        },
+        {
+          "date": "2026-09-06",
           "price": 430
         },
         {
@@ -117,6 +133,10 @@
       "trend": "down",
       "status": "SUCCESS",
       "history": [
+        {
+          "date": "2026-09-06",
+          "price": 391
+        },
         {
           "date": "2026-09-06",
           "price": 371
