@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:26:19.386Z",
+  "updatedAt": "2026-09-11T10:33:01.823Z",
   "flights": [
     {
       "route": "KGL → DXB",
@@ -34,15 +34,15 @@
           "price": 817
         },
         {
-          "date": "2026-09-06",
-          "price": 797
+          "date": "2026-09-07",
+          "price": 714
         },
         {
           "date": "2026-09-07",
           "price": 694
         },
         {
-          "date": "2026-09-07",
+          "date": "2026-09-08",
           "price": 674
         },
         {
@@ -50,11 +50,11 @@
           "price": 654
         },
         {
-          "date": "2026-09-08",
-          "price": 634
+          "date": "2026-09-09",
+          "price": 614
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "price": 594
         },
         {
@@ -62,7 +62,7 @@
           "price": 574
         },
         {
-          "date": "2026-09-10",
+          "date": "2026-09-11",
           "price": 554
         },
         {
@@ -77,9 +77,9 @@
       "destination": "LHR",
       "airline": "RwandAir / British Airways",
       "currentPriceUSD": 762,
-      "previousPriceUSD": 789,
-      "changeUSD": -27,
-      "changePct": -3.4,
+      "previousPriceUSD": 782,
+      "changeUSD": -20,
+      "changePct": -2.6,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
@@ -104,36 +104,36 @@
           "price": 981
         },
         {
-          "date": "2026-09-06",
-          "price": 961
+          "date": "2026-09-07",
+          "price": 964
         },
         {
           "date": "2026-09-07",
           "price": 944
         },
         {
-          "date": "2026-09-07",
-          "price": 924
+          "date": "2026-09-08",
+          "price": 925
         },
         {
           "date": "2026-09-08",
           "price": 905
         },
         {
-          "date": "2026-09-08",
-          "price": 885
+          "date": "2026-09-09",
+          "price": 840
         },
         {
-          "date": "2026-09-09",
-          "price": 820
+          "date": "2026-09-10",
+          "price": 829
         },
         {
           "date": "2026-09-10",
           "price": 809
         },
         {
-          "date": "2026-09-10",
-          "price": 789
+          "date": "2026-09-11",
+          "price": 782
         },
         {
           "date": "2026-09-11",
@@ -147,10 +147,10 @@
       "destination": "BRU",
       "airline": "Brussels Airlines",
       "currentPriceUSD": 917,
-      "previousPriceUSD": 682,
-      "changeUSD": 235,
-      "changePct": 34.5,
-      "trend": "up",
+      "previousPriceUSD": 937,
+      "changeUSD": -20,
+      "changePct": -2.1,
+      "trend": "down",
       "status": "SUCCESS",
       "history": [
         {
@@ -174,36 +174,36 @@
           "price": 855
         },
         {
-          "date": "2026-09-06",
-          "price": 835
+          "date": "2026-09-07",
+          "price": 895
         },
         {
           "date": "2026-09-07",
           "price": 875
         },
         {
-          "date": "2026-09-07",
-          "price": 855
+          "date": "2026-09-08",
+          "price": 794
         },
         {
           "date": "2026-09-08",
           "price": 774
         },
         {
-          "date": "2026-09-08",
+          "date": "2026-09-09",
           "price": 754
         },
         {
-          "date": "2026-09-09",
-          "price": 734
+          "date": "2026-09-10",
+          "price": 722
         },
         {
           "date": "2026-09-10",
           "price": 702
         },
         {
-          "date": "2026-09-10",
-          "price": 682
+          "date": "2026-09-11",
+          "price": 937
         },
         {
           "date": "2026-09-11",
@@ -217,9 +217,9 @@
       "destination": "NBO",
       "airline": "RwandAir / Kenya Airways",
       "currentPriceUSD": 391,
-      "previousPriceUSD": 414,
-      "changeUSD": -23,
-      "changePct": -5.6,
+      "previousPriceUSD": 411,
+      "changeUSD": -20,
+      "changePct": -4.9,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
@@ -248,7 +248,7 @@
           "price": 590
         },
         {
-          "date": "2026-09-06",
+          "date": "2026-09-07",
           "price": 570
         },
         {
@@ -256,24 +256,24 @@
           "price": 550
         },
         {
-          "date": "2026-09-07",
-          "price": 530
+          "date": "2026-09-08",
+          "price": 529
         },
         {
           "date": "2026-09-08",
-          "price": 509
-        },
-        {
-          "date": "2026-09-08",
-          "price": 490
+          "price": 510
         },
         {
           "date": "2026-09-09",
-          "price": 454
+          "price": 474
         },
         {
           "date": "2026-09-10",
-          "price": 414
+          "price": 434
+        },
+        {
+          "date": "2026-09-11",
+          "price": 411
         },
         {
           "date": "2026-09-11",
@@ -287,9 +287,9 @@
       "destination": "JNB",
       "airline": "RwandAir / South African",
       "currentPriceUSD": 332,
-      "previousPriceUSD": 355,
-      "changeUSD": -23,
-      "changePct": -6.5,
+      "previousPriceUSD": 352,
+      "changeUSD": -20,
+      "changePct": -5.7,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
@@ -303,14 +303,14 @@
         },
         {
           "date": "2026-09-06",
-          "price": 571
+          "price": 551
         },
         {
           "date": "2026-09-06",
           "price": 531
         },
         {
-          "date": "2026-09-06",
+          "date": "2026-09-07",
           "price": 511
         },
         {
@@ -318,7 +318,7 @@
           "price": 491
         },
         {
-          "date": "2026-09-07",
+          "date": "2026-09-08",
           "price": 471
         },
         {
@@ -326,15 +326,15 @@
           "price": 451
         },
         {
-          "date": "2026-09-08",
-          "price": 431
+          "date": "2026-09-09",
+          "price": 435
         },
         {
           "date": "2026-09-09",
           "price": 415
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "price": 395
         },
         {
@@ -342,8 +342,8 @@
           "price": 375
         },
         {
-          "date": "2026-09-10",
-          "price": 355
+          "date": "2026-09-11",
+          "price": 352
         },
         {
           "date": "2026-09-11",
@@ -352,5 +352,33 @@
       ]
     }
   ],
-  "instagram": []
+  "instagram": [
+    {
+      "id": "17993743415824308",
+      "mediaType": "IMAGE",
+      "mediaUrl": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WCX-_I-9HF0Q7kNvwHYesnE&_nc_oc=Adq9TnjowfvwSkbXsLKmKg32-28iMP_PpC_p85HkgnO7mRjewK3pPiq2USWYHzQy__Q&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=tqehz5elbiIWIrpLBzL-Ig&oh=00_AQJz8DaGRjDhxgqX-1I3RRTcHoZB2tV46jVGJHpVFq04fg&oe=6AA9966D",
+      "thumbnailUrl": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/782511194_17900889258566325_2575249030383274434_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WCX-_I-9HF0Q7kNvwHYesnE&_nc_oc=Adq9TnjowfvwSkbXsLKmKg32-28iMP_PpC_p85HkgnO7mRjewK3pPiq2USWYHzQy__Q&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=tqehz5elbiIWIrpLBzL-Ig&oh=00_AQJz8DaGRjDhxgqX-1I3RRTcHoZB2tV46jVGJHpVFq04fg&oe=6AA9966D",
+      "permalink": "https://www.instagram.com/p/Dcj5hfqiC6u/",
+      "caption": "",
+      "timestamp": "2026-08-27T22:49:48+0000"
+    },
+    {
+      "id": "18074160410391580",
+      "mediaType": "VIDEO",
+      "mediaUrl": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQNQEqVBzOap7ppWV4OMOwHA6LGj2RtIZLx76yFyrtHMZOJBtUWdOwS5RFIHYGnK33upYWnnUjiqQ7xwUExRLE4laBSwc-UqCdQ6PcQ.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=FZXA9cjIeDEQ7kNvwFOwawX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA3MDE3ODM3OTA0MTY2NiwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=325672e6ca0fcfed&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yQTREMjVFRTNDNTc4MkREQzhDQTJFNjYyMkI2MDVBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE0NEI3QUUxNzI1MzMwRjcxQ0QzNDgyQjZCQzBENDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEroiiytTmAxUCKAJDMywXQFNAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=tqehz5elbiIWIrpLBzL-Ig&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_AQI13-CI2wtCplvN9K7Le0ZGrHmsBhzXVXg3I7SgR5VxIw&oe=6AA5A6EB",
+      "thumbnailUrl": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/787306403_17900888523566325_4865125667112765288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y46Vjq-NQn4Q7kNvwETKx-j&_nc_oc=Adq1d-_aIY8bjKBxWnsEXrVlsF8r6jSQ5G4dUiuhzF_6UlZcRw-3hajZNwE8Jn4Kd9o&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=tqehz5elbiIWIrpLBzL-Ig&_nc_tpa=Q5bMBQKqAaGNA7DqTFGtZV2kNeXo8rvfWPDqSvXUz6R11BZMk0hlsYV7z45LsC8Wab1IeRUORsf6OdfqpQ&oh=00_AQI3AqS4vwHoOKFjY8EgQHpYSz25NOyYQsetTzTwFxj9Mw&oe=6AA9A627",
+      "permalink": "https://www.instagram.com/reel/Dcj4tjvs-nl/",
+      "caption": "",
+      "timestamp": "2026-08-27T22:43:40+0000"
+    },
+    {
+      "id": "17946370164294958",
+      "mediaType": "VIDEO",
+      "mediaUrl": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQPXvdAQ0UYuNhuVJzkf4BgnhZMNXeCmAXh3_swO6TyxLSDNiWGYM9MpRRy560cawBuDajfPh-Kv3zLYyzs94Q2-mok83XtuK7JrW8Y.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=dcvq-UewPCQQ7kNvwHXW7ns&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNTc2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA0MTc2NjExNTQxMTc4MywiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8b96000b4da29b4b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MDRGQjgwNzQ4MTFCMTA5RDlERDhEMDlBOEM4MkU4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NGNEQ0N0NBMDRDNzlCMjE1RUE0MEE0RkZCQkM0MDgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOnfyz4t7ZAxUCKAJDMywXQBwAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=tqehz5elbiIWIrpLBzL-Ig&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_AQLJ-BhQ73WKtOpOgd6lKisoUAtEtpSXwkllnOJ6IEbipA&oe=6AA5ACE5",
+      "thumbnailUrl": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/781867348_17900876631566325_5413410436436809223_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2OLNUYWYJ2IQ7kNvwHqCNBp&_nc_oc=AdqjiBDIpiouHt_Dv98zYCbLWZ0OvbIzFg25i2uUja3bK7CoJoAayHbcpYgchqgEwI8&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=tqehz5elbiIWIrpLBzL-Ig&_nc_tpa=Q5bMBQLxJXON4QPsynTLnLoDkFVq8E3EEXnvNQi4vdFWlIBWA-MCFOZamGxQtFUD3ZBbbNqnZKz3z_M1Eg&oh=00_AQJo4ZDHyvlnRUTNRADoJNNgea2OQJ4b0vWLVuuFEKMHxg&oe=6AA990AD",
+      "permalink": "https://www.instagram.com/reel/DcjpeJqMYfs/",
+      "caption": "",
+      "timestamp": "2026-08-27T20:29:48+0000"
+    }
+  ]
 }
