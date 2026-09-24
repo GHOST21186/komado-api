@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T10:58:24.820Z",
+  "updatedAt": "2026-09-24T21:02:28.134Z",
   "flights": [
     {
       "route": "KGL → DXB",
@@ -14,7 +14,7 @@
       "status": "SUCCESS",
       "history": [
         {
-          "date": "2026-09-17",
+          "date": "2026-09-18",
           "price": 878
         },
         {
@@ -22,23 +22,23 @@
           "price": 858
         },
         {
-          "date": "2026-09-18",
+          "date": "2026-09-19",
           "price": 838
         },
         {
           "date": "2026-09-19",
-          "price": 818
+          "price": 862
         },
         {
-          "date": "2026-09-19",
-          "price": 842
+          "date": "2026-09-20",
+          "price": 798
         },
         {
           "date": "2026-09-20",
           "price": 778
         },
         {
-          "date": "2026-09-20",
+          "date": "2026-09-21",
           "price": 758
         },
         {
@@ -46,23 +46,23 @@
           "price": 738
         },
         {
-          "date": "2026-09-21",
-          "price": 718
+          "date": "2026-09-22",
+          "price": 756
         },
         {
           "date": "2026-09-22",
-          "price": 736
+          "price": 734
         },
         {
-          "date": "2026-09-22",
-          "price": 714
+          "date": "2026-09-23",
+          "price": 678
         },
         {
           "date": "2026-09-23",
           "price": 658
         },
         {
-          "date": "2026-09-23",
+          "date": "2026-09-24",
           "price": 638
         },
         {
@@ -76,68 +76,68 @@
       "origin": "KGL",
       "destination": "LHR",
       "airline": "RwandAir / British Airways",
-      "currentPriceUSD": 801,
-      "previousPriceUSD": 779,
-      "changeUSD": 22,
-      "changePct": 2.8,
-      "trend": "up",
+      "currentPriceUSD": 819,
+      "previousPriceUSD": 821,
+      "changeUSD": -2,
+      "changePct": -0.2,
+      "trend": "down",
       "status": "SUCCESS",
       "history": [
         {
-          "date": "2026-09-17",
-          "price": 1065
+          "date": "2026-09-18",
+          "price": 1038
         },
         {
           "date": "2026-09-18",
           "price": 1018
         },
         {
-          "date": "2026-09-18",
-          "price": 998
+          "date": "2026-09-19",
+          "price": 978
         },
         {
           "date": "2026-09-19",
           "price": 958
         },
         {
-          "date": "2026-09-19",
-          "price": 938
+          "date": "2026-09-20",
+          "price": 987
         },
         {
           "date": "2026-09-20",
-          "price": 967
+          "price": 939
         },
         {
-          "date": "2026-09-20",
-          "price": 919
+          "date": "2026-09-21",
+          "price": 942
         },
         {
           "date": "2026-09-21",
           "price": 922
         },
         {
-          "date": "2026-09-21",
-          "price": 902
+          "date": "2026-09-22",
+          "price": 903
         },
         {
           "date": "2026-09-22",
           "price": 883
         },
         {
-          "date": "2026-09-22",
-          "price": 863
+          "date": "2026-09-23",
+          "price": 819
         },
         {
           "date": "2026-09-23",
           "price": 799
         },
         {
-          "date": "2026-09-23",
-          "price": 779
+          "date": "2026-09-24",
+          "price": 821
         },
         {
           "date": "2026-09-24",
-          "price": 801
+          "price": 819
         }
       ]
     },
@@ -147,38 +147,38 @@
       "destination": "BRU",
       "airline": "Brussels Airlines",
       "currentPriceUSD": 593,
-      "previousPriceUSD": 692,
-      "changeUSD": -99,
-      "changePct": -14.3,
+      "previousPriceUSD": 613,
+      "changeUSD": -20,
+      "changePct": -3.3,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
         {
-          "date": "2026-09-17",
-          "price": 846
+          "date": "2026-09-18",
+          "price": 848
         },
         {
           "date": "2026-09-18",
-          "price": 828
+          "price": 829
         },
         {
-          "date": "2026-09-18",
-          "price": 809
+          "date": "2026-09-19",
+          "price": 892
         },
         {
           "date": "2026-09-19",
           "price": 872
         },
         {
-          "date": "2026-09-19",
-          "price": 852
+          "date": "2026-09-20",
+          "price": 902
         },
         {
           "date": "2026-09-20",
           "price": 882
         },
         {
-          "date": "2026-09-20",
+          "date": "2026-09-21",
           "price": 862
         },
         {
@@ -186,24 +186,24 @@
           "price": 842
         },
         {
-          "date": "2026-09-21",
-          "price": 822
+          "date": "2026-09-22",
+          "price": 911
         },
         {
           "date": "2026-09-22",
-          "price": 891
+          "price": 832
         },
         {
-          "date": "2026-09-22",
-          "price": 812
+          "date": "2026-09-23",
+          "price": 732
         },
         {
           "date": "2026-09-23",
           "price": 712
         },
         {
-          "date": "2026-09-23",
-          "price": 692
+          "date": "2026-09-24",
+          "price": 613
         },
         {
           "date": "2026-09-24",
@@ -224,55 +224,55 @@
       "status": "SUCCESS",
       "history": [
         {
-          "date": "2026-09-17",
-          "price": 653
+          "date": "2026-09-18",
+          "price": 731
         },
         {
           "date": "2026-09-18",
-          "price": 711
+          "price": 712
         },
         {
-          "date": "2026-09-18",
-          "price": 692
+          "date": "2026-09-19",
+          "price": 701
         },
         {
           "date": "2026-09-19",
           "price": 681
         },
         {
-          "date": "2026-09-19",
-          "price": 661
+          "date": "2026-09-20",
+          "price": 582
         },
         {
           "date": "2026-09-20",
           "price": 562
         },
         {
-          "date": "2026-09-20",
+          "date": "2026-09-21",
           "price": 542
         },
         {
           "date": "2026-09-21",
-          "price": 522
-        },
-        {
-          "date": "2026-09-21",
-          "price": 501
+          "price": 521
         },
         {
           "date": "2026-09-22",
-          "price": 479
+          "price": 499
         },
         {
           "date": "2026-09-22",
-          "price": 458
+          "price": 478
         },
         {
           "date": "2026-09-23",
-          "price": 432
+          "price": 452
         },
         {
           "date": "2026-09-23",
+          "price": 433
+        },
+        {
+          "date": "2026-09-24",
           "price": 413
         },
         {
@@ -287,14 +287,14 @@
       "destination": "JNB",
       "airline": "RwandAir / South African",
       "currentPriceUSD": 333,
-      "previousPriceUSD": 396,
-      "changeUSD": -63,
-      "changePct": -15.9,
+      "previousPriceUSD": 353,
+      "changeUSD": -20,
+      "changePct": -5.7,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
         {
-          "date": "2026-09-17",
+          "date": "2026-09-18",
           "price": 636
         },
         {
@@ -302,23 +302,23 @@
           "price": 616
         },
         {
-          "date": "2026-09-18",
-          "price": 596
+          "date": "2026-09-19",
+          "price": 794
         },
         {
           "date": "2026-09-19",
           "price": 774
         },
         {
-          "date": "2026-09-19",
-          "price": 754
+          "date": "2026-09-20",
+          "price": 556
         },
         {
           "date": "2026-09-20",
           "price": 536
         },
         {
-          "date": "2026-09-20",
+          "date": "2026-09-21",
           "price": 516
         },
         {
@@ -326,24 +326,24 @@
           "price": 496
         },
         {
-          "date": "2026-09-21",
-          "price": 476
+          "date": "2026-09-22",
+          "price": 435
         },
         {
           "date": "2026-09-22",
-          "price": 415
+          "price": 414
         },
         {
-          "date": "2026-09-22",
-          "price": 394
+          "date": "2026-09-23",
+          "price": 436
         },
         {
           "date": "2026-09-23",
           "price": 416
         },
         {
-          "date": "2026-09-23",
-          "price": 396
+          "date": "2026-09-24",
+          "price": 353
         },
         {
           "date": "2026-09-24",
