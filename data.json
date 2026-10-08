@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-07T22:32:42.107Z",
+  "updatedAt": "2026-10-08T12:39:53.608Z",
   "flights": [
     {
       "route": "KGL → DXB",
       "origin": "KGL",
       "destination": "DXB",
       "airline": "RwandAir / Emirates",
-      "currentPriceUSD": 622,
-      "previousPriceUSD": 658,
-      "changeUSD": -36,
-      "changePct": -5.5,
+      "currentPriceUSD": 621,
+      "previousPriceUSD": 642,
+      "changeUSD": -21,
+      "changePct": -3.3,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "price": 898
         },
         {
@@ -22,7 +22,7 @@
           "price": 878
         },
         {
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "price": 858
         },
         {
@@ -30,7 +30,7 @@
           "price": 838
         },
         {
-          "date": "2026-10-02",
+          "date": "2026-10-03",
           "price": 818
         },
         {
@@ -38,36 +38,36 @@
           "price": 798
         },
         {
-          "date": "2026-10-03",
-          "price": 778
+          "date": "2026-10-04",
+          "price": 782
         },
         {
           "date": "2026-10-04",
           "price": 762
         },
         {
-          "date": "2026-10-04",
-          "price": 742
+          "date": "2026-10-05",
+          "price": 738
         },
         {
           "date": "2026-10-05",
-          "price": 718
+          "price": 717
         },
         {
-          "date": "2026-10-05",
+          "date": "2026-10-06",
           "price": 697
         },
         {
           "date": "2026-10-06",
-          "price": 677
-        },
-        {
-          "date": "2026-10-06",
-          "price": 658
+          "price": 678
         },
         {
           "date": "2026-10-07",
-          "price": 622
+          "price": 642
+        },
+        {
+          "date": "2026-10-08",
+          "price": 621
         }
       ]
     },
@@ -76,10 +76,10 @@
       "origin": "KGL",
       "destination": "LHR",
       "airline": "RwandAir / British Airways",
-      "currentPriceUSD": 776,
-      "previousPriceUSD": 795,
-      "changeUSD": -19,
-      "changePct": -2.4,
+      "currentPriceUSD": 794,
+      "previousPriceUSD": 796,
+      "changeUSD": -2,
+      "changePct": -0.3,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
@@ -88,56 +88,56 @@
           "price": 1057
         },
         {
-          "date": "2026-10-01",
-          "price": 1037
+          "date": "2026-10-02",
+          "price": 1029
         },
         {
           "date": "2026-10-02",
-          "price": 1009
+          "price": 1011
         },
         {
-          "date": "2026-10-02",
-          "price": 991
+          "date": "2026-10-03",
+          "price": 976
         },
         {
           "date": "2026-10-03",
           "price": 956
         },
         {
-          "date": "2026-10-03",
+          "date": "2026-10-04",
+          "price": 957
+        },
+        {
+          "date": "2026-10-04",
           "price": 936
         },
         {
-          "date": "2026-10-04",
-          "price": 937
-        },
-        {
-          "date": "2026-10-04",
-          "price": 916
+          "date": "2026-10-05",
+          "price": 915
         },
         {
           "date": "2026-10-05",
           "price": 895
         },
         {
-          "date": "2026-10-05",
-          "price": 875
+          "date": "2026-10-06",
+          "price": 914
         },
         {
           "date": "2026-10-06",
-          "price": 894
-        },
-        {
-          "date": "2026-10-06",
-          "price": 873
+          "price": 893
         },
         {
           "date": "2026-10-07",
-          "price": 795
+          "price": 815
         },
         {
           "date": "2026-10-07",
-          "price": 776
+          "price": 796
+        },
+        {
+          "date": "2026-10-08",
+          "price": 794
         }
       ]
     },
@@ -146,68 +146,68 @@
       "origin": "KGL",
       "destination": "BRU",
       "airline": "Brussels Airlines",
-      "currentPriceUSD": 672,
-      "previousPriceUSD": 694,
-      "changeUSD": -22,
-      "changePct": -3.2,
-      "trend": "down",
+      "currentPriceUSD": 780,
+      "previousPriceUSD": 692,
+      "changeUSD": 88,
+      "changePct": 12.7,
+      "trend": "up",
       "status": "SUCCESS",
       "history": [
         {
           "date": "2026-10-01",
-          "price": 912
-        },
-        {
-          "date": "2026-10-01",
-          "price": 889
+          "price": 909
         },
         {
           "date": "2026-10-02",
-          "price": 1044
+          "price": 1064
         },
         {
           "date": "2026-10-02",
-          "price": 1045
+          "price": 1065
+        },
+        {
+          "date": "2026-10-03",
+          "price": 891
         },
         {
           "date": "2026-10-03",
           "price": 871
         },
         {
-          "date": "2026-10-03",
-          "price": 851
+          "date": "2026-10-04",
+          "price": 911
         },
         {
           "date": "2026-10-04",
           "price": 891
         },
         {
-          "date": "2026-10-04",
+          "date": "2026-10-05",
           "price": 871
         },
         {
           "date": "2026-10-05",
-          "price": 851
-        },
-        {
-          "date": "2026-10-05",
-          "price": 832
+          "price": 852
         },
         {
           "date": "2026-10-06",
-          "price": 648
+          "price": 668
         },
         {
           "date": "2026-10-06",
-          "price": 635
+          "price": 655
         },
         {
           "date": "2026-10-07",
-          "price": 694
+          "price": 714
         },
         {
           "date": "2026-10-07",
-          "price": 672
+          "price": 692
+        },
+        {
+          "date": "2026-10-08",
+          "price": 780
         }
       ]
     },
@@ -216,8 +216,8 @@
       "origin": "KGL",
       "destination": "NBO",
       "airline": "RwandAir / Kenya Airways",
-      "currentPriceUSD": 393,
-      "previousPriceUSD": 414,
+      "currentPriceUSD": 392,
+      "previousPriceUSD": 413,
       "changeUSD": -21,
       "changePct": -5.1,
       "trend": "down",
@@ -225,18 +225,18 @@
       "history": [
         {
           "date": "2026-10-01",
-          "price": 654
-        },
-        {
-          "date": "2026-10-01",
-          "price": 633
+          "price": 653
         },
         {
           "date": "2026-10-02",
-          "price": 611
+          "price": 631
         },
         {
           "date": "2026-10-02",
+          "price": 613
+        },
+        {
+          "date": "2026-10-03",
           "price": 593
         },
         {
@@ -244,7 +244,7 @@
           "price": 573
         },
         {
-          "date": "2026-10-03",
+          "date": "2026-10-04",
           "price": 553
         },
         {
@@ -252,32 +252,32 @@
           "price": 533
         },
         {
-          "date": "2026-10-04",
+          "date": "2026-10-05",
           "price": 513
         },
         {
           "date": "2026-10-05",
-          "price": 493
+          "price": 490
         },
         {
-          "date": "2026-10-05",
+          "date": "2026-10-06",
           "price": 470
         },
         {
           "date": "2026-10-06",
-          "price": 450
-        },
-        {
-          "date": "2026-10-06",
-          "price": 435
+          "price": 455
         },
         {
           "date": "2026-10-07",
-          "price": 414
+          "price": 434
         },
         {
           "date": "2026-10-07",
-          "price": 393
+          "price": 413
+        },
+        {
+          "date": "2026-10-08",
+          "price": 392
         }
       ]
     },
@@ -286,35 +286,35 @@
       "origin": "KGL",
       "destination": "JNB",
       "airline": "RwandAir / South African",
-      "currentPriceUSD": 375,
+      "currentPriceUSD": 354,
       "previousPriceUSD": 395,
-      "changeUSD": -20,
-      "changePct": -5.1,
+      "changeUSD": -41,
+      "changePct": -10.4,
       "trend": "down",
       "status": "SUCCESS",
       "history": [
         {
           "date": "2026-10-01",
-          "price": 594
-        },
-        {
-          "date": "2026-10-01",
-          "price": 573
+          "price": 593
         },
         {
           "date": "2026-10-02",
-          "price": 551
+          "price": 571
         },
         {
           "date": "2026-10-02",
-          "price": 555
+          "price": 575
+        },
+        {
+          "date": "2026-10-03",
+          "price": 532
         },
         {
           "date": "2026-10-03",
           "price": 512
         },
         {
-          "date": "2026-10-03",
+          "date": "2026-10-04",
           "price": 492
         },
         {
@@ -322,32 +322,32 @@
           "price": 472
         },
         {
-          "date": "2026-10-04",
+          "date": "2026-10-05",
           "price": 452
         },
         {
           "date": "2026-10-05",
-          "price": 432
+          "price": 430
         },
         {
-          "date": "2026-10-05",
+          "date": "2026-10-06",
           "price": 410
         },
         {
           "date": "2026-10-06",
-          "price": 390
+          "price": 394
         },
         {
-          "date": "2026-10-06",
-          "price": 374
+          "date": "2026-10-07",
+          "price": 415
         },
         {
           "date": "2026-10-07",
           "price": 395
         },
         {
-          "date": "2026-10-07",
-          "price": 375
+          "date": "2026-10-08",
+          "price": 354
         }
       ]
     }
